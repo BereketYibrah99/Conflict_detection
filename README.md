@@ -3,10 +3,10 @@
 ## Introduction
 
 - Conflict detection is a computer vision project that utilizes key points extracted from a key detection model to identify fights, conflicts, and violent behavior.  
-- By analyzing video feeds from surveillance cameras, the system can recognize patterns indicative of conflict.  
-- This technology assists security personnel and camera operators in real-time monitoring, enhancing their ability to respond quickly to potential threats and maintain safety in various environments, such as public spaces.  
+- By analyzing video feeds from cameras, the system can recognize patterns indicative of conflict.  
+- This system assists security personnel and camera operators in real-time monitoring, enhancing their ability to respond quickly to potential threats and maintain safety in various environments, such as public spaces.  
 - Security camera operators often struggle with multiple screens, leading to fatigue and difficulty in focusing. This can affect their ability to detect real-time violence, allowing criminals to escape and putting victims at risk.  
-- This project will notify security camera operators when such kind of problem happens, by making them focus on the screen where the problem occurs, making them respond quickly.  
+- This project will notify security camera operators when such kind of problem happens, by making them focus on the screen when the problem occurs, making them respond quickly.  
 
 ---
 
